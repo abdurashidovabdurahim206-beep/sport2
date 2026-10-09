@@ -1,0 +1,111 @@
+export const foods = [
+  {
+    id: 1,
+    name: "Tuxum",
+    category: "Nonushta",
+    calories: 78,
+    protein: 6,
+    carbs: 0.6,
+    fat: 5,
+    serving: "1 dona",
+  },
+
+  {
+    id: 2,
+    name: "Tovuq go‘shti",
+    category: "Protein",
+    calories: 165,
+    protein: 31,
+    carbs: 0,
+    fat: 3.6,
+    serving: "100 g",
+  },
+
+  {
+    id: 3,
+    name: "Guruch",
+    category: "Uglevod",
+    calories: 130,
+    protein: 2.7,
+    carbs: 28,
+    fat: 0.3,
+    serving: "100 g",
+  },
+
+  {
+    id: 4,
+    name: "Banan",
+    category: "Meva",
+    calories: 105,
+    protein: 1.3,
+    carbs: 27,
+    fat: 0.4,
+    serving: "1 dona",
+  },
+
+  {
+    id: 5,
+    name: "Olma",
+    category: "Meva",
+    calories: 95,
+    protein: 0.5,
+    carbs: 25,
+    fat: 0.3,
+    serving: "1 dona",
+  },
+
+  {
+    id: 6,
+    name: "Suli yormasi",
+    category: "Nonushta",
+    calories: 150,
+    protein: 5,
+    carbs: 27,
+    fat: 3,
+    serving: "40 g",
+  },
+
+  {
+    id: 7,
+    name: "Qatiq",
+    category: "Sut mahsuloti",
+    calories: 100,
+    protein: 5,
+    carbs: 7,
+    fat: 5,
+    serving: "200 ml",
+  },
+
+  {
+    id: 8,
+    name: "Bodom",
+    category: "Snack",
+    calories: 164,
+    protein: 6,
+    carbs: 6,
+    fat: 14,
+    serving: "30 g",
+  },
+
+  {
+    id: 9,
+    name: "Kartoshka",
+    category: "Uglevod",
+    calories: 130,
+    protein: 3,
+    carbs: 30,
+    fat: 0.2,
+    serving: "100 g",
+  },
+
+  {
+    id: 10,
+    name: "Losos",
+    category: "Protein",
+    calories: 208,
+    protein: 20,
+    carbs: 0,
+    fat: 13,
+    serving: "100 g",
+  },
+];
